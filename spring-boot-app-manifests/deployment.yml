@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: rickypanda/project7:replaceImageTag
+        image: rickypanda/project7:3
         ports:
         - containerPort: 8080
